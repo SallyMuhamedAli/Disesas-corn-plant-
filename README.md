@@ -4,7 +4,7 @@ This is project contain :
 -[Environment Setup](#EnvironmentSetup)
 -[Data Preprocessing](#DataPreprocessing)
 -[Model Building](#ModelBuilding)
--[ Model Training and Evaluation](# ModelTrainingandEvaluation)
+-[ Model Training and Evaluation](#ModelTrainingandEvaluation)
 
 ## Introduction
 
@@ -33,4 +33,3 @@ This is project contain :
 - You trained the model on the training data set.
 - The model achieved a high accuracy of 99% on the validation data set.
 
-This is an excellent project, and congratulations on your achievement! If you have any questions or want to discuss any additional aspects, feel free to ask.
